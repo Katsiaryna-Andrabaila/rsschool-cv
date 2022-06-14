@@ -1,1 +1,110 @@
-text
+html {
+    scroll-behavior: smooth; 
+  }
+
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-areas: 
+        "header header"
+        "sidebar main"
+        "footer footer";
+    grid-template-columns: 1fr 3fr;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.item {
+    background-color: #DEB887;
+    color: #000000;
+    text-align: left;
+    padding: 20px 40px 20px 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+}
+
+.header {
+    grid-area: header;
+    border-radius: 0 0 35px 35px;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    border-radius: 35px;
+}
+
+.main {
+    grid-area: main;
+    border-radius: 35px;
+}
+
+.footer {
+    grid-area: footer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 35px 35px 0 0;
+}
+
+.photo {
+    border-radius: 20px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    list-style-type: none;
+}
+
+.nav-a, .footer-a, .projects-a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #8B4513;
+    background-color: #FFEBCD;
+    border-radius: 8px;
+    padding: 10px 16px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: color 0.5s;
+}
+
+.nav-a:visited, .footer-a:visited, .projects-a:visited {
+    background-color: #bf8c72;
+}
+
+.nav-a:hover, .footer-a:hover, .projects-a:hover {
+    color: #cba3a3;
+    background-color: #4d2323;
+    text-decoration: underline;
+  }
+
+.code {
+    background-color: #D2B48C;
+    border-radius: 10px;
+}
+
+.edu-list, .contact-list {
+    list-style-type: none;
+}
+
+#contact {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 1em;
+}
