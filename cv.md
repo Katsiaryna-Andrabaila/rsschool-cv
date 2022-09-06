@@ -21,6 +21,13 @@ My previous experience was not related to IT, it was in insurance and estimation
 *English - B1
 
 
+##**Projects**
+
+*[momentum][https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/momentum/]
+
+*[travel][https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/travel/pages/main/]
+
+
 ##**Experience**
 
 B&B Insurance Co, regional office manager
