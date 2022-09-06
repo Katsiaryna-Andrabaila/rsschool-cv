@@ -1,50 +1,50 @@
-#**Katsiaryna Andrabaila**
+# **Katsiaryna Andrabaila**
 
-##**Future Front-End Developer**
+## **Future Front-End Developer**
 
 
-##**About Me**
+## **About Me**
 
 After 25 I thought that IT is not for me, it's for younger guys. At 35 I don't care, I believe that everything is in my hands and, futhermore, in my head.
 
 My previous experience was not related to IT, it was in insurance and estimation. But that job was tied to a particular place. Now I'd like a different type of activity and this could be Frontend Development, because it's very interesting and supposes difficult tasks. And such tasks have always been especially interesting for me - they help me feel great job satisfaction.
 
 
-##**My skills**
+## **My skills**
 
-*HTML, CSS, JS
+* HTML, CSS, JS
 
-*SQL (w3school.com, sql-ex.ru, hackerrank.com)
+* SQL (w3school.com, sql-ex.ru, hackerrank.com)
 
-*QA theory and practice (TestIT, Jira, Postman)
+* QA theory and practice (TestIT, Jira, Postman)
 
-*English - B1
+* English - B1
 
 
 ##**Projects**
 
-*[momentum][https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/momentum/]
+* [momentum] [https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/momentum/]
 
-*[travel][https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/travel/pages/main/]
+* [travel] [https://rolling-scopes-school.github.io/katsiaryna-andrabaila-JSFEPRESCHOOL2022Q2/travel/pages/main/]
 
 
-##**Experience**
+## **Experience**
 
 B&B Insurance Co, regional office manager
 
 
-##**Education and courses**
+## **Education and courses**
 
-*RSS JS/FE Pre-School (09.2022)
+* RSS JS/FE Pre-School (09.2022)
 
-*IT School Mela-Rossa (04.2022)
+* IT School Mela-Rossa (04.2022)
 Software Testing
 
-*Belorussian State University (2009)
+* Belorussian State University (2009)
 Economic Faculty
 
 
-##**Code Example**
+## **Code Example**
 
 ```
 function bingo(ticket, win){
@@ -65,12 +65,12 @@ function bingo(ticket, win){
 ```
 
 
-##**CONTACT**
+## **CONTACT**
 
-*androbailoe@gmail.com
+* androbailoe@gmail.com
 
-*+375 29 373 99 61 (Viber, Telegram, Skype)
+* +375 29 373 99 61 (Viber, Telegram, Skype)
 
-*Katsiaryna-Andrabaila#3993 (Discord)
+* Katsiaryna-Andrabaila#3993 (Discord)
 
-*Mogilev, Belarus
+* Mogilev, Belarus
